@@ -1,0 +1,51 @@
+.header{
+    font-size: 60px;
+    color: white;
+    background-color: black;
+    margin: 50px;
+    text-align:center;
+
+}
+.location{
+    font-size: 50px;
+    text-align: center;
+    
+}
+.momo{
+    font-size: 100px;
+    text-align: center;
+    color:black;
+    
+}
+.momomia{
+    text-align: center;
+}
+
+.menu{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 155px;
+    font-size: 60px;
+}
+
+.mcard{
+    display: flex;
+    margin: 6%;
+   
+}
+.img1{
+    text-align: center;
+      
+}
+.opening{
+    background-color: black; text-align: center ;
+    color: white;
+    text-align: center;
+    margin: 155px;
+    font-size: 80px;
+}
+
+.fb{
+    text-align: center;
+}
