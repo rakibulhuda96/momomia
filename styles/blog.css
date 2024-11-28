@@ -49,3 +49,24 @@
 .fb{
     text-align: center;
 }
+.video{
+    margin: 5000px;
+    display: flex;
+    margin: 6%;
+    text-align: center;
+}
+.text{
+    font-size: 60px;
+    background-color: black;
+    color: white;
+    margin: 155px;
+    text-align: center;
+}
+.headline{
+    text-align: center;
+    font-size: 40px;
+    background-color: black;
+    color: white;
+    margin: 155px;
+
+}
